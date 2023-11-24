@@ -10,4 +10,9 @@ h1 {
   color: #333;
 }
 
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 100px;
+}
 
